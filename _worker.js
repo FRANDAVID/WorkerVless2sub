@@ -18,6 +18,12 @@ let addresses = [
 	'proxy.xxxxxxxx.tk#OTC提供维护反代优选',
 	'cfyx.sbjc.shop#来自电报收集',
 	'cfzl8.freeapp.buzz#三网全绿',
+	
+	'cloudflare.182682.xyz#【cloudflare.182682.xyz】onitor.gacjie.cn网站提供',
+	'fyx.sbjc.shop#【cfzl8.freeapp.buzzTG搜集】',
+	'cfzl8.freeapp.buzz#【cfzl8.freeapp.buzzTG搜集】',
+	'anycast.cf.030419.xyz#【anycast.cf.030419.xyz】TG 搜集',
+	
 	'shopify.com#shopify.com',
 	'time.is#time.is',
 	'icook.hk#icook.hk',
