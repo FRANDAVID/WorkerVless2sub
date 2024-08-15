@@ -13,7 +13,9 @@ let addresses = [
 	'bestcf.onecf.eu.org#Mingyu提供维护官方优选',
 	'cf.zhetengsha.eu.org#小一提供维护官方优选',
 	'acjp2.cloudflarest.link#KJKKK维护官方优选',
-	'achk.cloudflarest.link#KJKKK维护官方优选'
+	'achk.cloudflarest.link#KJKKK维护官方优选',
+	'cfyx.sbjc.shop#来自电报收集',
+	'cfzl8.freeapp.buzz#三网全绿'
 ];
 
 // 设置优选地址api接口
