@@ -23,6 +23,8 @@ let addresses = [
 	'fyx.sbjc.shop#【fyx.sbjc.shop搜集】',
 	'cfzl8.freeapp.buzz#【cfzl8.freeapp.buzzTG搜集】',
 	'anycast.cf.030419.xyz#【anycast.cf.030419.xyz】TG 搜集',
+	'sgfd.ytian.us.kg#【sgfd.ytian.us.kg新加坡反代TG 搜集】',
+	'cm.yutian.us.kg#【sgfd.ytian.us.kgTG搜集】',
 	
 	'shopify.com#shopify.com',
 	'time.is#time.is',
