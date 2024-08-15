@@ -8,25 +8,30 @@ let addresses = [
 	'cf.090227.xyz#三网自适应分流官方优选',
 	'cloudflare.cfgo.cc#优选官方线路',
 	'ct.090227.xyz#电信官方优选',
-	'cmcc.090227.xyz#移动官方优选'
+	'cmcc.090227.xyz#移动官方优选',
+	'cfip.xxxxxxxx.tk#OTC提供维护官方优选',
+	'bestcf.onecf.eu.org#Mingyu提供维护官方优选',
+	'cf.zhetengsha.eu.org#小一提供维护官方优选',
+	'acjp2.cloudflarest.link#KJKKK维护官方优选',
+	'achk.cloudflarest.link#KJKKK维护官方优选'
 ];
 
 // 设置优选地址api接口
 let addressesapi = [
-	'https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/addressesapi.txt', //可参考内容格式 自行搭建。
+	//'https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/addressesapi.txt', //可参考内容格式 自行搭建。
 	//'https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/addressesipv6api.txt', //IPv6优选内容格式 自行搭建。
 ];
 
 // 设置优选地址，不带端口号默认80，noTLS订阅生成
 let addressesnotls = [
-	'www.visa.com.sg#官方优选域名',
-	'www.wto.org:8080#官方优选域名',
-	'www.who.int:8880#官方优选域名',
+	//'www.visa.com.sg#官方优选域名',
+	//'www.wto.org:8080#官方优选域名',
+	//'www.who.int:8880#官方优选域名',
 ];
 
 // 设置优选noTLS地址api接口
 let addressesnotlsapi = [
-	'https://raw.githubusercontent.com/cmliu/CFcdnVmess2sub/main/addressesapi.txt', //可参考内容格式 自行搭建。
+	//'https://raw.githubusercontent.com/cmliu/CFcdnVmess2sub/main/addressesapi.txt', //可参考内容格式 自行搭建。
 ];
 
 let DLS = 8;//速度下限
