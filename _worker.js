@@ -14,6 +14,8 @@ let addresses = [
 	'cf.zhetengsha.eu.org#小一提供维护官方优选',
 	'acjp2.cloudflarest.link#KJKKK维护官方优选',
 	'achk.cloudflarest.link#KJKKK维护官方优选',
+	'bestproxy.onecf.eu.org#Mingyu提供维护反代优选',
+	'proxy.xxxxxxxx.tk#OTC提供维护反代优选',
 	'cfyx.sbjc.shop#来自电报收集',
 	'cfzl8.freeapp.buzz#三网全绿',
 	'shopify.com#shopify.com',
@@ -40,6 +42,18 @@ let addresses = [
 let addressesapi = [
 	//'https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/addressesapi.txt', //可参考内容格式 自行搭建。
 	//'https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/addressesipv6api.txt', //IPv6优选内容格式 自行搭建。
+	'https://ipdb.api.030101.xyz/?type=bestcf&country=true',
+	'https://addressesapi.090227.xyz/CloudFlareYes',
+	'https://addressesapi.090227.xyz/ip.164746.xyz',
+	'https://ipdb.api.030101.xyz/?type=bestproxy&country=true',
+	'https://addressesapi.090227.xyz/ct',
+	'https://addressesapi.090227.xyz/cmcc',
+	'https://addressesapi.090227.xyz/cmcc-ipv6',
+	'https://ct.xxxxxxxx.tk/',
+	'https://cm.xxxxxxxx.tk/',
+	'https://cu.xxxxxxxx.tk/',
+	'https://cuv6.xxxxxxxx.tk/'
+	
 ];
 
 // 设置优选地址，不带端口号默认80，noTLS订阅生成
