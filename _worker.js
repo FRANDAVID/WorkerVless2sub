@@ -15,7 +15,25 @@ let addresses = [
 	'acjp2.cloudflarest.link#KJKKK维护官方优选',
 	'achk.cloudflarest.link#KJKKK维护官方优选',
 	'cfyx.sbjc.shop#来自电报收集',
-	'cfzl8.freeapp.buzz#三网全绿'
+	'cfzl8.freeapp.buzz#三网全绿',
+	'shopify.com#优选域名 1',
+	'time.is#优选域名 2',
+	'icook.hk#优选域名 3',
+	'icook.tw#优选域名 4',
+	'ip.sb#优选域名 5',
+	'japan.com#优选域名 6',
+	'malaysia.com#优选域名 7',
+	'russia.com#优选域名 8',
+	'singapore.com#优选域名 9',
+	'skk.moe#优选域名 10',
+	'www.visa.com.sg#优选域名 11',
+	'www.visa.com.hk#优选域名 12',
+	'www.visa.com.tw#优选域名 13',
+	'www.visa.co.jp#优选域名 14',
+	'www.visakorea.com#优选域名 15',
+	'www.gco.gov.qa#优选域名 16',
+	'www.gov.se#优选域名 17',
+	'www.gov.ua#优选域名 18'
 ];
 
 // 设置优选地址api接口
