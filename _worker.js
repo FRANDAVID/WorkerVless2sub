@@ -45,6 +45,7 @@ let addresses = [
 	'dd.hza1128.us.kg#dd.hza1128.us.kg-TG搜集',
 	'bing-cdn.aoop1994.eu.org#bing-cdn.aoop1994.eu.org-TG搜集',
 	'6768.918518.xyz#6768.918518.xyz-TG搜集',
+	'cfcs.us.kg#cfcs.us.kg-TG搜集',
 	
 	
 	'shopify.com#shopify.com',
