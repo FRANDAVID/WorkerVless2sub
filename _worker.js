@@ -74,7 +74,7 @@ let addressesapi = [
 	//'https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/addressesipv6api.txt', //IPv6优选内容格式 自行搭建。
 	//'https://ipdb.030101.xyz/api/bestproxybeta.txt',
 	//'https://ipdb.api.030101.xyz/?type=bestcf&country=true',
-	'https://raw.githubusercontent.com/yutian81/CFCDN-Auto/main/sgfd_ips.txt'
+	'https://raw.githubusercontent.com/FRANDAVID/CFCDN-Auto/main/yx_ips.txt'
 	//'https://addressesapi.090227.xyz/CloudFlareYes',
 	//'https://addressesapi.090227.xyz/ip.164746.xyz',
 	//'https://ipdb.api.030101.xyz/?type=bestproxy&country=true',
